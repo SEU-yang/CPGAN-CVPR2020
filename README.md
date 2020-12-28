@@ -1,6 +1,7 @@
 # CPGAN-CVPR2020
 
 Dear friends, Thank you for keep tracking in this implementation of CPGAN (CVPR 2020 Oral Paper)
+! https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Copy_and_Paste_GAN_Face_Hallucination_From_Shaded_Thumbnails_CVPR_2020_paper.html
 
 ## Prerequisites:
 
@@ -13,7 +14,7 @@ Dear friends, Thank you for keep tracking in this implementation of CPGAN (CVPR 
 
 python train.py
 
-Change the option in Train.py to set the dataset's directory. I am using Multi-PIE as the training set. 
+Change the option in train.py to set the dataset's directory. I am using Multi-PIE as the training set. 
 
 
 ## Test
