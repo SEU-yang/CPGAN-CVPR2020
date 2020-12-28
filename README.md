@@ -5,13 +5,17 @@ Dear friends, Thank you for keep tracking in this implementation of CPGAN (CVPR 
 # Prerequisites:
 
 Python 3.6
+
 Pytorch 1.0 or newer (Pytorch > 0.4 should be ok)
+
 matplotlib
+
 skimage
 
 # Train: 
 
 python train.py
+
 Change the option in Train.py to set the dataset's directory. I am using Multi-PIE as the training set. 
 
 
