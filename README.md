@@ -18,13 +18,13 @@ Change the option in train.py to set the dataset's directory. I am using Multi-P
 
 ## Test
 
-python test.py
-
-Pre-trained models: 
+* Download pre-trained models: 
 
 `Multi-PIE` [BaiduYun](https://pan.baidu.com/s/1eve7GN_VXXJk5fxyT6LE9g)  (Password: 1234)
 
 `CelebA` [BaiduYun](https://pan.baidu.com/s/1MPXR9Jb--c-CXu47YWmCIg)   (Password: 1234)
+
+* python test.py
 
 
 ## Citation
