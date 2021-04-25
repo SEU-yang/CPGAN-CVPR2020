@@ -20,7 +20,7 @@ Change the option in train.py to set the dataset's directory. I am using Multi-P
 
 python test.py
 
-Pre-trained models: Link: ! https://pan.baidu.com/s/1eve7GN_VXXJk5fxyT6LE9g  Password: 1234
+Pre-trained models: Link: https://pan.baidu.com/s/1eve7GN_VXXJk5fxyT6LE9g  Password: 1234
 
 ## Citation
 
