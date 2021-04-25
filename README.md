@@ -16,10 +16,11 @@ python train.py
 
 Change the option in train.py to set the dataset's directory. I am using Multi-PIE as the training set. 
 
-
 ## Test
 
 python test.py
+
+Pre-trained models: Link: ! https://pan.baidu.com/s/1LPpqMAA6kZG8PlacY6T8mQ  Password: 1234
 
 ## Citation
 
