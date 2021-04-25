@@ -12,17 +12,17 @@ Dear friends, Thank you for keep tracking in this implementation of CPGAN (CVPR 
 
 ## Train: 
 
-python train.py
+* python train.py
 
-Change the option in train.py to set the dataset's directory. I am using Multi-PIE and CelebA as training sets. 
+* Change the option in train.py to set the dataset's directory. I am using Multi-PIE and CelebA as training sets. 
 
 ## Test
 
 * Download pre-trained models: 
 
-`Multi-PIE` [BaiduYun](https://pan.baidu.com/s/1eve7GN_VXXJk5fxyT6LE9g)  (Password: 1234)
+  `Multi-PIE` [BaiduYun](https://pan.baidu.com/s/1eve7GN_VXXJk5fxyT6LE9g)  (Password: 1234)
 
-`CelebA` [BaiduYun](https://pan.baidu.com/s/1MPXR9Jb--c-CXu47YWmCIg)   (Password: 1234)
+  `CelebA` [BaiduYun](https://pan.baidu.com/s/1MPXR9Jb--c-CXu47YWmCIg)   (Password: 1234)
 
 * python test.py
 
